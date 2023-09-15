@@ -1,7 +1,7 @@
 # LUSS_plus
 This is an open source project about large scale unsupervised semantic segment (LUSS_plus).
 
-# Jittor 大规模无监督语义分割比赛
+# Jittor 大规模无监督语义分割比赛 baseline
 
 
 ![主要结果]()
@@ -9,7 +9,7 @@ This is an open source project about large scale unsupervised semantic segment (
 
 ## 简介
 
-本项目包含了第三届计图挑战赛计图 - 大规模无监督语义分割比赛的代码实现。本项目的特点是：采用了PASS模型对ImageNet-S大规模无监督语义分割数据集进行训练和测试，取得了mIoU=0.285016的效果。
+本项目包含了第三届计图挑战赛计图 - 大规模无监督语义分割比赛的代码实现。本项目的特点是：采用了PASS模型对ImageNet-S50大规模无监督语义分割数据集进行训练和测试，取得了mIoU=0.285016的效果。
 
 ## 安装 
 
@@ -18,8 +18,8 @@ This is an open source project about large scale unsupervised semantic segment (
 #### 运行环境
 
 - ubuntu 18.04 LTS
-- python >= 3.8
-- jittor >= 1.3.7.16
+- python == 3.8
+- jittor == 1.3.7.16
 - mpirun
 
 #### 安装依赖
