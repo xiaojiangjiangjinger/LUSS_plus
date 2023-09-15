@@ -62,4 +62,4 @@ python test.py
 
 ## 致谢
 
-此项目基于论文 Large-scale Unsupervised Semantic Segmentation* 实现，部分代码参考了 [jittor-pass](https://github.com/LUSSeg/PASS/tree/jittor)。
+此项目基于论文 *Large-scale Unsupervised Semantic Segmentation* 实现，部分代码参考了[jittor-pass](https://github.com/LUSSeg/PASS/tree/jittor)。
