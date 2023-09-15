@@ -1,5 +1,5 @@
 # LUSS_plus
-This is an open source project about large scale unsupervised semantic segment (LUSS_plus).
+(Jittor) This is a large-scale unsupervised semantic segmentation of open source code implemented using jittor (LUSS_plus).
 
 # Jittor 大规模无监督语义分割比赛 baseline
 
